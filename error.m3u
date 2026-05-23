@@ -356,6 +356,18 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/Gp8MJrMd/zoomoo.png",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/pLxGtjy8/10-105604-kids-logo-hd-png-download.png",Cartoon Kids 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/8ztHQnqX/Cartoon-Kids-logo.png",Cartoon Kids 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/8ztHQnqX/Cartoon-Kids-logo.png",Cartoon Kids 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/fRBKng6F/images.png",Cartoon Kids 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/sX7zQLtz/rafplus-logo.png",Ryan and friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
