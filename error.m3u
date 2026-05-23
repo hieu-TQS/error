@@ -272,12 +272,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-##EXTINF:-1 tvg-id="woman" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/66kMVTgh/woman.png",Woman
-##EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-##KODIPROP:inputstream.adaptive.manifest_type=mpd
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-
 #EXTINF:-1 tvg-id="woman" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/66kMVTgh/woman.png",Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -357,26 +351,6 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/Gp8MJrMd/zoomoo.png",ZooMoo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/pLxGtjy8/10-105604-kids-logo-hd-png-download.png",Cartoon Kids 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/8ztHQnqX/Cartoon-Kids-logo.png",Cartoon Kids 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/8ztHQnqX/Cartoon-Kids-logo.png",Cartoon Kids 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/fRBKng6F/images.png",Cartoon Kids 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/sX7zQLtz/rafplus-logo.png",Ryan and friends
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/vTqS0sCB/Sb-BKr8L.png", Baby Shark TV
-https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png",BBC Cbeebies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -477,6 +451,200 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Gp8MJrMd/zoomoo.png",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/pLxGtjy8/10-105604-kids-logo-hd-png-download.png",Cartoon Kids 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/8ztHQnqX/Cartoon-Kids-logo.png",Cartoon Kids 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/8ztHQnqX/Cartoon-Kids-logo.png",Cartoon Kids 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/fRBKng6F/images.png",Cartoon Kids 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/sX7zQLtz/rafplus-logo.png",Ryan and friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/sX7zQLtz/rafplus-logo.png",Ryan and friends" tvg-logo="https://i.postimg.cc/vTqS0sCB/Sb-BKr8L.png", Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="6452c814939a590008567a3b" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",90's Kids
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/6452c814939a590008567a3b/index.m3u8
+
+#EXTINF:-1 tvg-id="6452c77ed3fdde00080eb3a8" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png",90s Kids TV 2
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/6452c77ed3fdde00080eb3a8/index.m3u8
+
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",TOTALLY TURTLES
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5d0c16d686454ead733d08f8/index.m3u8
+
+#EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png",El Reino Infantil
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/66fedd65d7de140008dccd66/index.m3u8
+
+#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png",Forever Kids
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/56171fafada51f8004c4b40f/index.m3u8
+
+#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png",Garfield and Friends
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/60faf9ddfcc1f200070a5932/index.m3u8
+
+#EXTINF:-1 tvg-id="667f3852efa2a10008e1e514" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png",Go Go Gadget!
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/667f3852efa2a10008e1e514/index.m3u8
+
+#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png",iCarly TV
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/6450209d939a5900084dba1d/index.m3u8
+
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png",Kartoon Channel!
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/60fb040d4795a6000762fe8f/index.m3u8
+
+#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png",LEGO Kids TV
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/60fb01a24795a6000762fe83/index.m3u8
+
+#EXTINF:-1 tvg-id="5eb301b7395671000780d100" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png",Little Angel's Playroom
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5eb301b7395671000780d100/index.m3u8
+
+#EXTINF:-1 tvg-id="60493283ffc52f000710edae" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png",Little Angel's Playroom en Español
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/60493283ffc52f000710edae/index.m3u8
+
+
+#EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png",Little Stars Universe
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/51c75f7bb6f26ba1cd00002f/index.m3u8
+
+#EXTINF:-1 tvg-id="65e23f340d4561000821540d" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png",Mister Rogers' Neighborhood
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/65e23f340d4561000821540d/index.m3u8
+
+#EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",Nick Jr. Pluto TV
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5ca6748a37b88b269472dad9/index.m3u8
+
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",Nickelodeon en español
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="5ca673e0d0bd6c2689c94ce3" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",Nickelodeon Pluto TV
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5ca673e0d0bd6c2689c94ce3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png",Peppa Pig
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5d14fb6c84dd37df3b4290c5/index.m3u8
+
+#EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png",Pokémon
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/6675c7868768aa0008d7f1c7/index.m3u8
+
+#EXTINF:-1 tvg-id="69e6be40fde57cd5ba562b29" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/69e6be40fde57cd5ba562b29/colorLogoPNG_1777592109830.png",Pokémon en español
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/69e6be40fde57cd5ba562b29/index.m3u8
+
+
+#EXTINF:-1 tvg-id="667f393836a2f90008fd17c0" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png",Strawberry Shortcake and Friends
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/667f393836a2f90008fd17c0/index.m3u8
+
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",TOTALLY TURTLES
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5d0c16d686454ead733d08f8/index.m3u8
+
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png",Transformers TV
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/60fb053712f22a0007ff14d2/index.m3u8
+
+#EXTINF:-1 tvg-id="6793eaa4bc03978b9bc63db1" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png",ANIME x HIDIVE
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/6793eaa4bc03978b9bc63db1/index.m3u8
+
+#EXTINF:-1 tvg-id="696997049889f8db34c936c2" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/696997049889f8db34c936c2/colorLogoPNG_1771029425876.png",Boruto: Naruto Next Generations
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/696997049889f8db34c936c2/index.m3u8
+
+#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png",Crunchyroll
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/65652f7fc0fc88000883537a/index.m3u8
+
+#EXTINF:-1 tvg-id="67c63b90a20c0399a381b816" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/67c63b90a20c0399a381b816/colorLogoPNG_1745441127472.png",Inuyasha
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/67c63b90a20c0399a381b816/index.m3u8
+
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png",Naruto
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5da0c85bd2c9c10009370984/index.m3u8
+
+
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png",One Piece
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5f7790b3ed0c88000720b241/index.m3u8
+
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png",Pluto TV Anime
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5812b7d3249444e05d09cc49/index.m3u8
+
+#EXTINF:-1 tvg-id="67ed8f7e443f0671bc2b2368" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png",Pluto TV Anime Movies
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/67ed8f7e443f0671bc2b2368/index.m3u8
+
+#EXTINF:-1 tvg-id="637e55347427a40007fac703" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png",Sailor Moon
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/637e55347427a40007fac703/index.m3u8
+
+#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png",Yu-Gi-Oh!
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/5f4ec10ed9636f00089b8c89/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus1.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -551,41 +719,34 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9903
 #EXTINF:-1 tvg-id="tv360hoathinh" group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png", Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9934
-##EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/kg9q3Bbn/462daff06d9d-480-270.png",360 Anime
-
-##EXTINF:-1 tvg-id="hoat-hinh" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png",Hoạt hình
-
-##EXTINF:-1 tvg-id="tv360phimviet" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", Phim Việt
-##EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-##EXTINF:-1 tvg-id="phim-au-my" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png",Phim Âu Mỹ
-
-##EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_480_270.png",360 Phim Kinh điển
-
-##EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_480_270.png",360 Hài -Tình cảm
-
-##EXTINF:-1 tvg-id="360-hoa-ngu" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png",360 Hoa Ngữu
-
-##EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/L8R2Kn1s/1f38a5af77c1-480-270.png",360 Hành động Châu Á
-
-##EXTINF:-1 tvg-id="360-k-drama" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",360 K-Drama
-
-##EXTINF:-1 tvg-id="360-c1-chau-au" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png",360 C1 Châu Âu
-
-##EXTINF:-1 tvg-id="360-c2-chau-au" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_480_270.png",360 C2 Châu Âu
-
-##EXTINF:-1 tvg-id="360-c3-chau-au" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_480_270.png",360 C3 Châu Âu
-
-##EXTINF:-1 tvg-id="360-the-thao-chau-a" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_480_270.png",360 Thể Thao Châu Á
-
-##EXTINF:-1 tvg-id="360-cong-thuc-1" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/5231xbBx/ceaa765c5dbe-480-270.png",360 Công Thức 1
-
-##EXTINF:-1 tvg-id="360-bundesliga" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_480_270.png",360 Bundesliga
-
-##EXTINF:-1 tvg-id="360-golf" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/FHZm9NyN/e6e315b781fb-480-270.png",360 Golf
-
-##EXTINF:-1 tvg-id="360-tennis" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",360 Tennis
-
+#EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/kg9q3Bbn/462daff06d9d-480-270.png",360 Anime
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-anime/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_480_270.png",360 Phim Kinh điển
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-phim-kinh-dien/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_480_270.png",360 Hài -Tình cảm
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hai-tinh-cam/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-hoa-ngu" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png",360 Hoa Ngữ
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hoa-ngu/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/L8R2Kn1s/1f38a5af77c1-480-270.png",360 Hành động Châu Á
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hanh-dong-chau-a/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-k-drama" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",360 K-Drama
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-k-drama/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-c1-chau-au" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png",360 C1 Châu Âu
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c1-chau-au/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-c2-chau-au" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_480_270.png",360 C2 Châu Âu
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c2-chau-au/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-c3-chau-au" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_480_270.png",360 C3 Châu Âu
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c3-chau-au/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-the-thao-chau-a" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_480_270.png",360 Thể Thao Châu Á
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-the-thao-chau-a/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-cong-thuc-1" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/5231xbBx/ceaa765c5dbe-480-270.png",360 Công Thức 1
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-cong-thuc-1/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-bundesliga" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_480_270.png",360 Bundesliga
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-bundesliga/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-golf" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/FHZm9NyN/e6e315b781fb-480-270.png",360 Golf
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-golf/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-tennis" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",360 Tennis
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
