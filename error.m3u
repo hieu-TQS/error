@@ -279,7 +279,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 ##KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 
 #EXTINF:-1 tvg-id="woman" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/66kMVTgh/woman.png",Woman
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGc9OEKvoFQP9POztbVPnwBA/ts
+https://www.youtube.com/watch?v=nY2upofLh5o
 
 ##EXTINF:-1 tvg-id="musicbox" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/1Rkv0428/musicboxhd.png",Music Box
 ##EXTVLCOPT:http-user-agent=Dalvik/2.1.0
