@@ -470,7 +470,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/sX7zQLtz/rafplus-logo.png",Ryan and friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/sX7zQLtz/rafplus-logo.png",Ryan and friends" tvg-logo="https://i.postimg.cc/vTqS0sCB/Sb-BKr8L.png", Baby Shark TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/vTqS0sCB/Sb-BKr8L.png", Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-id="6452c814939a590008567a3b" group-title="Kids" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",90's Kids
@@ -710,13 +710,13 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
 #EXTINF:-1 tvg-id="tv360" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/gkWfr1kZ/a5f8181388ab-480-270.png",TV360 Promo
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
-#EXTINF:-1 tvg-id="tv360phimviet" group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", Phim Việt
+#EXTINF:-1 tvg-id="tv360phimviet" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9902
-#EXTINF:-1 tvg-id="tv360aumy" group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png", Phim Âu Mỹ
+#EXTINF:-1 tvg-id="tv360aumy" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png", Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9903
-#EXTINF:-1 tvg-id="tv360hoathinh" group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png", Hoạt hình
+#EXTINF:-1 tvg-id="tv360hoathinh" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png", Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9934
 #EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/kg9q3Bbn/462daff06d9d-480-270.png",360 Anime
