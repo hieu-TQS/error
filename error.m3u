@@ -965,6 +965,9 @@ https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD"  group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Moonbug_Kids.png",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NatureTime.ca@AU" group-title="Quốc tế" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Ảnh%20chụp%20màn%20hình%202026-05-29%20163002.png",Nature Time
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/inside-outside.png",Inside Outside
