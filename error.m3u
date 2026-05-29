@@ -327,6 +327,9 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 
+#EXTINF:-1 tvg-id="WMPT541.us@HD",PBS MPT Baltimore MD
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
 #EXTINF:-1 tvg-id="outdoor" group-title="Quốc tế" tvg-logo="https://img-ali1.tv360.vn/image1/2020/11/12/10/1605151414697/e4570232b05d_640_360.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
@@ -418,8 +421,6 @@ https://toiyeuvietnam.dpdns.org/HoiLamGi/673bf05ddaad7f0008ac7a5c/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/664fd48894d5580008e45e7c/index.m3u8
 
-
-https://toiyeuvietnam.dpdns.org/HoiLamGi/6675c742ca74680008566b88/index.m3u8
 #EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" group-title="Animals + Nature" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png",Naturescape
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -440,11 +441,9 @@ https://toiyeuvietnam.dpdns.org/HoiLamGi/5bb1ad55268cae539bcedb08/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/696998dfa2b623e8b20125a3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyQwM1CW/PBS-Kids.png" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://ibb.co/kZMyG7kg",Ryan and friends
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="6793eaa4bc03978b9bc63db1" group-title="Anime" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png",ANIME x HIDIVE
@@ -707,7 +706,7 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4Db6Dh5/izb5kv-Sgf-S-QN2-THUMBNAIL-KENHVTVgo-500x281-Photoroom.png" group-title="Địa phương",Quảng Ngãi 2
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/9k3M4VVc" group-title="Địa phương",An Giang 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/1.png" group-title="Địa phương",An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX3TfSk1/2.png" group-title="Địa phương",An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
@@ -763,7 +762,7 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://img.vtvprime.vn/la86tbUKl1soy7JvoNwyLIMy93UNchulPC31dzUyCho/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZjRmMzM2YTYtZjk2Zi00ZThkLWJkMDgtMDI4NTBjZThmMGQzLnBuZw==.png" group-title="Địa phương",Khánh Hòa
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://ibb.co/XxWpG7GH",Khánh Hòa 1
+#EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/kh2.png",Khánh Hòa 1
 https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_640_360.png" group-title="Địa phương",Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
@@ -773,7 +772,7 @@ https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_640_360.png" group-title="Địa phương",Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/BV8ycHm4" group-title="Địa phương",Tây Ninh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/TAYNINH.png" group-title="Địa phương",Tây Ninh
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/07/1751329203146/5c287ccfa91a_640_360.png" group-title="Địa phương",Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
@@ -796,9 +795,8 @@ https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png" group-title="Địa phương",Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="natgeowild" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/d0vvTcnN/national-geographic-wild.png",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://84.17.50.102/natgeowild/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/rafplus-logo.png",Ryan and friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KidsPangTV.us@SD" group-title="Pluto TV",Kids Pang TV (1080p)
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
@@ -920,7 +918,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 
 #EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
-#EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://ibb.co/99S1X1xM", ZingRadio 2 - Chạm FM
+#EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/ch.png", ZingRadio 2 - Chạm FM
 https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
 #EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", ZingRadio 3 - Kpop
 https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8
@@ -961,3 +959,22 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673099710/c321a9c85d33_480_270.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+
+#EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKid.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca@AU" group-title="Quốc tế" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Ảnh%20chụp%20màn%20hình%202026-05-29%20163002.png",Nature Time
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/inside-outside.png",Inside Outside
+https://all3media-international-insideoutside-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/The%20Wicked%20Tuna%20Channel.png",The Wicked Tuna Channel
+https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+
