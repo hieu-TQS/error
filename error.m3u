@@ -956,8 +956,6 @@ https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Alaska
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Eastern/Central
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Mountain
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 group-title="PBS Kids" tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png",PBS Kids Pacific
