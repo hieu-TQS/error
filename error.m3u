@@ -327,7 +327,7 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 
-#EXTINF:-1 tvg-id="WMPT541.us@HD",PBS MPT Baltimore MD
+#EXTINF:-1 tvg-id="WMPT541.us@HD" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS%20MPT.png",PBS MPT Baltimore MD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 tvg-id="outdoor" group-title="Quốc tế" tvg-logo="https://img-ali1.tv360.vn/image1/2020/11/12/10/1605151414697/e4570232b05d_640_360.png",Outdoor Channel
@@ -787,7 +787,7 @@ https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png" group-title="Địa phương",Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/rafplus-logo.png",Ryan and friends
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/rafplus-logo.png",Ryan and friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KidsPangTV.us@SD" group-title="Pluto TV",Kids Pang TV (1080p)
