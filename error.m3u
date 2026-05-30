@@ -720,7 +720,7 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/rafplus-logo.png",Ryan and friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pluto TV",Barney & Friends
+#EXTINF:-1 tvg-id="" group-title="Pluto TV"tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Barney_Friends.png",Barney & Friends
 https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
