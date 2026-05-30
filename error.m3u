@@ -219,7 +219,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv21
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGXCZRCXXdXK70orNkdxHd9s/ts
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/cf-cQKJDbIW9958UPPY8xOI8hO8vX_DZFbSv5-4jE1E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/SCTV4K.png", SCTV 4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/OnliveTV/sctv4k/Free.m3u8
