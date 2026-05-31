@@ -782,13 +782,13 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-name="Mr. Bean Anime" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/mr_bean.png",Mr. Bean Anime
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-name="Mystery TV" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/mystery.png",Mystery TV
+#EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-name="Mystery TV" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/mystery1.png",Mystery TV
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Waterbear" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/waterbear.png",Waterbear
 https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-name="Real Wild" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/real-wild.png",Real Wild
+#EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-name="Real Wild" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/real-wild1.png",Real Wild
 https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-name="Rakuten Top Movies UK" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Rakuten_TV.png",Rakuten Top Movies UK
@@ -933,22 +933,22 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 1
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251206/Uu0SL67F/index.m3u8
+https://s6.kkphimplayer6.com/20251206/Uu0SL67F/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 2
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251207/kcjiZLyx/index.m3u8
+https://s6.kkphimplayer6.com/20251207/kcjiZLyx/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 3
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251213/tBRejSyv/index.m3u8
+https://s6.kkphimplayer6.com/20251213/tBRejSyv/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 4
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251220/RucoPd4L/index.m3u8
+https://s6.kkphimplayer6.com/20251220/RucoPd4L/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 5
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251227/585DfArM/index.m3u8
+https://s6.kkphimplayer6.com/20251227/585DfArM/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 6
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260103/YihGe9hZ/index.m3u8
+https://s6.kkphimplayer6.com/20260103/YihGe9hZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 7
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260110/MTcPoYMd/index.m3u8
+https://s6.kkphimplayer6.com/20260110/MTcPoYMd/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 8
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260124/RDitIcx6/index.m3u8
+https://s6.kkphimplayer6.com/20260124/RDitIcx6/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 9
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260131/5b0JH7vC/index.m3u8
+https://s6.kkphimplayer6.com/20260131/5b0JH7vC/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 10
-https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260207/5IY1hIhL/index.m3u8
+https://s6.kkphimplayer6.com/20260207/5IY1hIhL/index.m3u8
