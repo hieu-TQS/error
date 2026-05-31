@@ -931,3 +931,24 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673099710/c321a9c85d33_480_270.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 1
+https://embed12.streamc.xyz/embed.php?hash=1c7822619ab2b8bd28f1670a9ad8059c
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 2
+https://embed12.streamc.xyz/embed.php?hash=c91c178ffe0c1e52c7ce3bcc86948226
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 3
+https://embed12.streamc.xyz/embed.php?hash=990dfd3694cdd8a5fd25bec0d1e20510
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 4
+https://embed11.streamc.xyz/embed.php?hash=4a184815c4bd1c53a9838b152b8bc614
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 5
+https://embed11.streamc.xyz/embed.php?hash=ad0cdfe19435747cdf4ab786192e4d0d
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 6
+https://embed14.streamc.xyz/embed.php?hash=1cdc3b7c23aee8da4e77569a29a5349c
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 7
+https://embed11.streamc.xyz/embed.php?hash=ebe17641c426ca83a198cfcee3525b20
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 8
+https://embed11.streamc.xyz/embed.php?hash=b5a9a1dbdefaae6e7e0c9c84d79a6c2c
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 9
+https://embed12.streamc.xyz/embed.php?hash=227843d2f385ad25000a646664fd8ce9
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 10
+https://embed14.streamc.xyz/embed.php?hash=ad294577faf50ea49b2dc9fd824d45e2
