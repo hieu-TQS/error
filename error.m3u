@@ -499,13 +499,13 @@ http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfORmjpooH22X8sCMC2hMLc/ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGUn1g_P3MIgixcUqVs5OMGU/ts
 
-#EXTINF:-1 tvg-id="tv360phimviet" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", Phim Việt
+#EXTINF:-1 tvg-id="tv360phimviet" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9902
-#EXTINF:-1 tvg-id="tv360aumy" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png", Phim Âu Mỹ
+#EXTINF:-1 tvg-id="tv360aumy" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png", 360 Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9903
-#EXTINF:-1 tvg-id="tv360hoathinh" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png", Hoạt hình
+#EXTINF:-1 tvg-id="tv360hoathinh" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png", 360 Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9934
 #EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_480_270.png",360 Anime
