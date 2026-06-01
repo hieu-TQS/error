@@ -888,6 +888,59 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",H20 TV
+https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",ABC 20/20
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",All Babies Channel
+https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Alone By History
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Baby Einstein
+https://ds25p79iq4576.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Barbie and Friends
+https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",batteryPOP
+https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Cine Romantico
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Cine Romantico
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",ducktv
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Flipping Nation
+https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",HappyKids
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Hot Wheels Action
+https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Kartoon Channel!
+https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Mysteries Xplored
+https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Outdoor America
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Outside TV
+https://desdobebr2wri.cloudfront.net/Outside.m3u8
+#EXTINF:-1 tvg-id="RevandRoll.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Rev and Roll
+https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Sonic The Hedgehog
+https://dtwdcugadwtnw.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Strawberry Shortcake
+https://d2tdny619yw5x1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",The LEGO Channel
+https://dh18i7whff86v.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Van Helsing
+https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
 #EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
 #EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/ch.png", ZingRadio 2 - Chạm FM
@@ -910,27 +963,6 @@ https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
 #EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tn.png", ZingRadio 11 - Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
-
-#EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://admin.vov.gov.vn//UploadFolder/DonVi_Image/a20c56e9-3627-4c6e-94e7-0ab00c748eed.png", VOV1
-https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
-#EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://admin.vov.gov.vn//UploadFolder/DonVi_Image/b0bfb983-d686-4273-9420-da084f0ac458.png", VOV2
-https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://admin.vov.gov.vn//UploadFolder/DonVi_Image/e846baee-2580-42c1-a22d-e58cf82a9808.png", VOV3
-https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
-#EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://admin.vov.gov.vn//UploadFolder/DonVi_Image/8c00cd95-6919-4cb2-9f73-13d5e7ee7572.png", VOV5
-https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://admin.vov.gov.vn/UploadFolder/RITC/CaCauToChuc/1210819d-836f-4c69-957e-8a52c568c8d5.png", VOV Giao thông Hà Nội
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 tvg-id="vovgthcm" group-title="Radio" tvg-logo="https://admin.vov.gov.vn//UploadFolder/DonVi_Image/68d43961-b50b-4403-b666-4da51296ca61.png", VOV Giao thông Hồ Chí Minh
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-#EXTINF:-1 tvg-id="voh999" group-title="Radio" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673413230/6095d75f830a_480_270.png", VOH FM 99.9Mhz
-https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="voh956" group-title="Radio" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779674089161/8e51d80307bf_480_270.png", VOH FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="voh877" group-title="Radio" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673834679/564a27e6f7b6_480_270.png", VOH FM 87.7Mhz
-https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673099710/c321a9c85d33_480_270.png", VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 1
 https://s6.kkphimplayer6.com/20251206/Uu0SL67F/index.m3u8
