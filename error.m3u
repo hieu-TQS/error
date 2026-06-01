@@ -887,57 +887,55 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",H20 TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/h2o.png" group-title="Samsung TV",H20 TV
 https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",ABC 20/20
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/2020.png" group-title="Samsung TV",ABC 20/20
 https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",All Babies Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/mainabc-all-babies-channel.png/" group-title="Samsung TV",All Babies Channel
 https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Alone By History
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/maxresdefault.png" group-title="Samsung TV",Alone By History
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Baby Einstein
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Baby-Einstein.png" group-title="Samsung TV",Baby Einstein
 https://ds25p79iq4576.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Barbie and Friends
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Barbie-Friends.png" group-title="Samsung TV",Barbie and Friends
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",batteryPOP
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/batteryPOP.png" group-title="Samsung TV",BatteryPOP
 https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Cine Romantico
+#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/CineRomantico.png" group-title="Samsung TV",Cine Romantico
 https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
-#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Cine Romantico
-https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
-#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",ducktv
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Ducktv-logo.png" group-title="Samsung TV",DuckTV
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",FilmRise Anime
+#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/FilmRise-Anime.png" group-title="Samsung TV",FilmRise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Flipping Nation
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Flipping Nation-Photoroom.png" group-title="Samsung TV",Flipping Nation
 https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",HappyKids
+#EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/HappyKids2-Photoroom.png" group-title="Samsung TV",HappyKids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Historia
+#EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/his.png" group-title="Samsung TV",Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Hot Wheels Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/HotWheelsAction.png" group-title="Samsung TV",Hot Wheels Action
 https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Kartoon Channel!
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Samsung TV",Kartoon Channel!
 https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Love Nature 4K
+#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png" group-title="Samsung TV",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Mysteries Xplored
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/ex.png" group-title="Samsung TV",Mysteries Xplored
 https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Outdoor America
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/OutdoorAmerica.png" group-title="Samsung TV",Outdoor America
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Outside TV
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/OutsideTV-Photoroom.png" group-title="Samsung TV",Outside TV
 https://desdobebr2wri.cloudfront.net/Outside.m3u8
-#EXTINF:-1 tvg-id="RevandRoll.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Rev and Roll
+#EXTINF:-1 tvg-id="RevandRoll.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/rovroll.png" group-title="Samsung TV",Rev and Roll
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Sonic The Hedgehog
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Sonic.png" group-title="Samsung TV",Sonic The Hedgehog
 https://dtwdcugadwtnw.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Strawberry Shortcake
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png" group-title="Samsung TV",Strawberry Shortcake
 https://d2tdny619yw5x1.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",The LEGO Channel
+#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/TheLEGOChannel.png" group-title="Samsung TV",The LEGO Channel
 https://dh18i7whff86v.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",Van Helsing
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/VanHelsing.png" group-title="Samsung TV",Van Helsing
 https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/" group-title="Samsung TV",WildEarth
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/WildEarth.png" group-title="Samsung TV",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 
 #EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", ZingRadio 1 - Vpop
