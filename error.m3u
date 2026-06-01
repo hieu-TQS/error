@@ -891,7 +891,7 @@ https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
 https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/2020.png" group-title="Samsung TV",ABC 20/20
 https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/mainabc-all-babies-channel.png" group-title="Samsung TV",All Babies Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/abc-all-babies-channel.png" group-title="Samsung TV",All Babies Channel
 https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/maxresdefault.png" group-title="Samsung TV",Alone By History
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -907,7 +907,7 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/FilmRise-Anime.png" group-title="Samsung TV",FilmRise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Flipping%Nation-Photoroom.png" group-title="Samsung TV",Flipping Nation
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Flipping%20Nation-Photoroom.png" group-title="Samsung TV",Flipping Nation
 https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/HappyKids2-Photoroom.png" group-title="Samsung TV",HappyKids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
