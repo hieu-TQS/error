@@ -981,3 +981,6 @@ https://s6.kkphimplayer6.com/20260124/RDitIcx6/index.m3u8
 https://s6.kkphimplayer6.com/20260131/5b0JH7vC/index.m3u8
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg" group-title="Spartacus",Tập 10
 https://s6.kkphimplayer6.com/20260207/5IY1hIhL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Post/7/bac-si-dao-hoang.jpg" group-title="NGUONC",PHIM
+https://embed15.streamc.xyz/embed.php?hash=fd984c1b5c7a2fd4dfec1f07f7bbe85b
