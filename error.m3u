@@ -913,8 +913,7 @@ https://embed12.streamc.xyz/embed.php?hash=afbc87d9432e05fe92badbb6c7d14df6
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Film/f9tWGssOpViDbh6dV6gtLFiCc7i.jpg" group-title="Mortal Kombat",Cuộc Chiến Sinh Tử 2
 https://embed12.streamc.xyz/embed.php?hash=e96b3202f496468ad65e2210ec54e466
 
-#EXTM3U url-tvg="https://vnepg.site/epg.xml" m3uautoload=1
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab7" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sports HD
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab8" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
