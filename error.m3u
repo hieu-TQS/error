@@ -821,8 +821,6 @@ https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/HappyKids2-Photoroom.png" group-title="Samsung TV",HappyKids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/his.png" group-title="Samsung TV",Historia
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/HotWheelsAction.png" group-title="Samsung TV",Hot Wheels Action
 https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Samsung TV",Kartoon Channel!
