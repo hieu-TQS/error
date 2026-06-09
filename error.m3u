@@ -118,7 +118,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_480_270.png", On Golf
-https://sgclient.duckdns.org/source/tv360.m3u8?id=169
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_480_270.png", ON Sports HD
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdOOvy-m3p9K5-Cg-HdYvfk/ts
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png", ON Sports+
