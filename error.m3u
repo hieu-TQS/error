@@ -729,12 +729,11 @@ https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/qngai2.png" group-title="Địa phương",Quảng Ngãi 2
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/1.png" group-title="Địa phương",An Giang 1
-https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/2.png" group-title="Địa phương",An Giang 2
-https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/3.png" group-title="Địa phương",An Giang 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png",Thanh Hóa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
@@ -750,7 +749,7 @@ https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_480_270.png",Hải Phòng 3
 https://live-hq.evgcdn.net/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_640_360.png" group-title="Địa phương",Cà Mau
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_640_360.png" group-title="Địa phương",Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png" group-title="Địa phương",Đắk Lắk
@@ -784,9 +783,9 @@ https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_640_360.png" group-title="Địa phương",Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w1547680104.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/08/1751331689553/f287ef8d8574_640_360.png" group-title="Địa phương",Đồng Tháp 1
-https://live.fptplay53.net/epzsd1/dongthap_hls.smil/chunklist.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1327270202.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/16/10/1757993795684/45f17a4f3b90_640_360.png" group-title="Địa phương",Đồng Tháp 2 (Miền Tây)
-https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w739590088.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823599924/b1d77a6c01a0_640_360.png" group-title="Địa phương",Sơn La
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
