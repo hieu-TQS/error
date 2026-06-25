@@ -1098,31 +1098,31 @@ https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTV2" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/2.png,VTV2
+#EXTINF:-1 tvg-id="VTV2" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/2.png,VTV2 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
 
-#EXTINF:-1 tvg-id="VTV3" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/3.png,VTV3
+#EXTINF:-1 tvg-id="VTV3" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/3.png,VTV3 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
 
-#EXTINF:-1 tvg-id="VTV7" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/7.png,VTV7
+#EXTINF:-1 tvg-id="VTV7" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/7.png,VTV7 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
 
-#EXTINF:-1 tvg-id="VTV9" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/9.png,VTV9
+#EXTINF:-1 tvg-id="VTV9" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/9.png,VTV9 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
 
-#EXTINF:-1 tvg-id="VTV10" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/10.png,VTV10
+#EXTINF:-1 tvg-id="VTV10" group-title="Dự phòng" https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/10.png,VTV10 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
@@ -1140,71 +1140,71 @@ https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
 
-#EXTINF:-1 tvg-id="ongolf" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/goft.png", On Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/goft.png", On Golf TS
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
-#EXTINF:-1 tvg-id="onsports" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot.png", ON Sports HD
+#EXTINF:-1 tvg-id="onsports" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot.png", ON Sports TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdOOvy-m3p9K5-Cg-HdYvfk/ts
-#EXTINF:-1 tvg-id="onsportsplus" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot+.png", ON Sports+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot+.png", ON Sports+ TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdjvrwZKrL-vbYz4nY_dUms/ts
-#EXTINF:-1 tvg-id="onfootball" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/football.png",  ON Football HD
+#EXTINF:-1 tvg-id="onfootball" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/football.png",  ON Football TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw/ts
-#EXTINF:-1 tvg-id="onsportsnews" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspotn.png", ON Sports News
+#EXTINF:-1 tvg-id="onsportsnews" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspotn.png", ON Sports News TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfjELkpuULaoe1h2pAp4xpE/ts
 
-#EXTINF:-1 tvg-id="tv360plus13" group-title="Dự phòng" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12
+#EXTINF:-1 tvg-id="tv360plus13" group-title="Dự phòng" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12 TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGWSdHWyHbaV_I-wKCG9KRv8/ts
 
-#EXTINF:-1 tvg-id="tv360plus13" group-title="Dự phòng" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png", TV360+13
+#EXTINF:-1 tvg-id="tv360plus13" group-title="Dự phòng" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png", TV360+13 TS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdwyFDRZkCagryLH1FY7POs/ts
 
-#EXTINF:-1 tvg-id="tv360plus14" group-title="Dự phòng" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png", TV360+14
+#EXTINF:-1 tvg-id="tv360plus14" group-title="Dự phòng" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png", TV360+14 TS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfORmjpooH22X8sCMC2hMLc/ts
 
-#EXTINF:-1 tvg-id="tv360plus15" group-title="Dự phòng" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png", TV360+15
+#EXTINF:-1 tvg-id="tv360plus15" group-title="Dự phòng" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png", TV360+15 TS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGUn1g_P3MIgixcUqVs5OMGU/ts
-#EXTINF:-1 tvg-id="sctv1hd" group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/PYph2rJ-XMzrNFRf8Hv0wb-XDpm2FzIUDN-84ijmLic/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png", SCTV1
+#EXTINF:-1 tvg-id="sctv1hd" group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/PYph2rJ-XMzrNFRf8Hv0wb-XDpm2FzIUDN-84ijmLic/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png", SCTV1 TS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGcYEysZVWz90PMZe4-7NA74/ts
 
-#EXTINF:-1 tvg-id="woman" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/woman.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/woman.png",Woman TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGc9OEKvoFQP9POztbVPnwBA/ts
 
-#EXTINF:-1 tvg-id="onfootball" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/football.png", ON FOOTBALL 2
+#EXTINF:-1 tvg-id="onfootball" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/football.png", ON FOOTBALL TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png" catchup="append" catchup-days="2" catchup-source="/catchup2/829/${start}/${end}/tvid_sctv22hd",SCTV22
+#EXTINF:-1 tvg-id="sctv22hd" group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png" catchup="append" catchup-days="2" catchup-source="/catchup2/829/${start}/${end}/tvid_sctv22hd",SCTV22 TS
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGXCZRCXXdXK70orNkdxHd9s/ts
 
 
 
-#EXTINF:-1 tvg-id="ON Sport" group-title="Dự phòng" ,ON Sport
+#EXTINF:-1 tvg-id="onsports" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot.png", ON Sports MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 
-#EXTINF:-1 tvg-id="ON Sport Plus" group-title="Dự phòng",ON Sport Plus
+#EXTINF:-1 tvg-id="onsportsplus" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot+.png", ON Sports+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
 
-#EXTINF:-1 tvg-id="ON Sport News" group-title="Dự phòng",ON Sport News
+#EXTINF:-1 tvg-id="onsportsnews" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspotn.png", ON Sports News MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
 
-#EXTINF:-1 tvg-id="ON Football" group-title="Dự phòng",ON Football
+#EXTINF:-1 tvg-id="onfootball" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/football.png", ON Football MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 
-#EXTINF:-1 tvg-id="ON Golf" group-title="Dự phòng",ON Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/goft.png", On Golf MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
