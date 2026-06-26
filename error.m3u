@@ -1168,6 +1168,193 @@ https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 01
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 02
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 03
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 04
+https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 05
+https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 06
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 07
+https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 08
+https://vips-livecdn.fptplay.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 09
+https://vips-livecdn.fptplay.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 10
+https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 11
+https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 12
+https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 13
+https://vips-livecdn.fptplay.net/live/media/su-kien-13/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 14
+https://vips-livecdn.fptplay.net/live/media/su-kien-14/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 15
+https://vips-livecdn.fptplay.net/live/media/su-kien-15/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 16
+https://vips-livecdn.fptplay.net/live/media/su-kien-16/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 17
+https://vips-livecdn.fptplay.net/live/media/su-kien-17/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 82
+https://vips-livecdn.fptplay.net/live/media/su-kien-82/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 83
+https://vips-livecdn.fptplay.net/live/media/su-kien-83/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 84
+https://vips-livecdn.fptplay.net/live/media/su-kien-84/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 85
+https://vips-livecdn.fptplay.net/live/media/su-kien-85/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 86
+https://vips-livecdn.fptplay.net/live/media/su-kien-86/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 87
+https://vips-livecdn.fptplay.net/live/media/su-kien-87/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 88
+https://vips-livecdn.fptplay.net/live/media/su-kien-88/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 89
+https://vips-livecdn.fptplay.net/live/media/su-kien-89/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 90
+https://vips-livecdn.fptplay.net/live/media/su-kien-90/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 91
+https://vips-livecdn.fptplay.net/live/media/su-kien-91/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 92
+https://vips-livecdn.fptplay.net/live/media/su-kien-92/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 93
+https://vips-livecdn.fptplay.net/live/media/su-kien-93/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 94
+https://vips-livecdn.fptplay.net/live/media/su-kien-94/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 95
+https://vips-livecdn.fptplay.net/live/media/su-kien-95/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 96
+https://vips-livecdn.fptplay.net/live/media/su-kien-96/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 97
+https://vips-livecdn.fptplay.net/live/media/su-kien-97/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Sự Kiện 98
+https://vips-livecdn.fptplay.net/live/media/su-kien-98/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 01
+https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 02
+https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 03
+https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 04
+https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 05
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 06
+https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 07
+https://vips-livecdn.fptplay.net/live/media/event-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 08
+https://vips-livecdn.fptplay.net/live/media/event-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 09
+https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 10
+https://vips-livecdn.fptplay.net/live/media/event-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 11
+https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 12
+https://vips-livecdn.fptplay.net/live/media/event-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 13
+https://vips-livecdn.fptplay.net/live/media/event-13/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 35
+https://vips-livecdn.fptplay.net/live/media/event-35/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 36
+https://vips-livecdn.fptplay.net/live/media/event-36/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 37
+https://vips-livecdn.fptplay.net/live/media/event-37/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 38
+https://vips-livecdn.fptplay.net/live/media/event-38/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 39
+https://vips-livecdn.fptplay.net/live/media/event-39/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 40
+https://vips-livecdn.fptplay.net/live/media/event-40/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 41
+https://vips-livecdn.fptplay.net/live/media/event-41/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 42
+https://vips-livecdn.fptplay.net/live/media/event-42/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 43
+https://vips-livecdn.fptplay.net/live/media/event-43/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 44
+https://vips-livecdn.fptplay.net/live/media/event-44/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 45
+https://vips-livecdn.fptplay.net/live/media/event-45/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",Event 46
+https://vips-livecdn.fptplay.net/live/media/event-46/dash_a_drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 01 4K
+https://vips-livecdn.fptplay.net/live/media//su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Sự Kiện 02 4K
+https://vips-livecdn.fptplay.net/live/media//su-kien-02-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 01 4K
+https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT",Event 02 4K
+https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 01 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 02 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_02_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 03 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_03_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 04 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_04_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 05 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_05_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 06 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_06_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 07 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_07_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 08 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_08_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 09 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_09_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 10 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_10_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 01 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 02 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_02_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 03 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_03_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 04 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_04_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 05 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_05_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 06 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_06_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 07 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_07_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 08 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_08_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 09 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_09_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HN 10 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_10_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 01 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_01_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 02 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_02_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 03 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_03_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 04 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_04_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 05 HD H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_05_HD_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 01 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_01_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 02 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_02_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 03 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_03_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 04 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_04_4K_H264/web-dash-drm/index.mpd
+#EXTINF:-1 tvg-id="fpt" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/fpt.png" group-title="Sự kiện FPT" KODIPROP:inputstream.adaptive.license_type="clearkey" KODIPROP:inputstream.adaptive.license_key="b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e",EPL HCM 05 4K H264
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_05_4K_H264/web-dash-drm/index.mpd
+
 #EXTINF:-1 tvg-id="VTV2" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/2.png",VTV2 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
