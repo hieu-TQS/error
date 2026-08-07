@@ -4,7 +4,12 @@ https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=100
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/2.png" group-title="VTV",VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/3.png" group-title="VTV",VTV3
-https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+catchup="default" catchup-days="2" catchup-source="https://livezenatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd?startTime=${start}&stopTime=${stop}" tvg-shift="0"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livezenatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/4.png" group-title="VTV",VTV4
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5.png" group-title="VTV",VTV5
@@ -25,8 +30,14 @@ https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_56000
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/VNTD.png" group-title="VTV",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/ANTV.png" group-title="Thiết yếu",ANTV
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/ANTV.png" group-title="Thiết yếu", ANTV
+catchup="default" catchup-days="2" catchup-source="https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd?startTime=${start}&stopTime=${stop}" tvg-shift="0"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cca908f736f54dfc90ec844fe123942c:9fea9e1b52e1e87a7d4c1dec0c46307f
+https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/QPVN.png" group-title="Thiết yếu",QPVN
 https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/YOUTV.png", YouTV
